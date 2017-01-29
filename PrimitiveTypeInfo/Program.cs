@@ -6,7 +6,9 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+             Console.WriteLine();
+            Console.WriteLine("Type information");
+            Console.WriteLine();
         }
     }
 }
